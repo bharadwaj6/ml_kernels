@@ -1,2 +1,2 @@
 # hackathon_scripts
-A bunch of kernels written for various ML hackathons
+A bunch of one-off kernels written for various ML hackathons
